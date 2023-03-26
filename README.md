@@ -14,4 +14,10 @@
 
 ## Link to the video demonstration
 
-[Click Here.](https://youtu.be/4D0LhODJ6dM)
+LinkVideo = > [Click Here.](https://youtu.be/4D0LhODJ6dM)
+
+## Example Display QuizGame
+
+<img src = "game_screen.png" alt ="game_screen" width = "25%" Height ="25%">
+
+<img src = "final_dialogue.png" alt ="final_dialogue" width = "25%" Height ="25%">
